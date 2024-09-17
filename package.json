@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0qmtsnudn",
-  "description": "https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0131",
+  "name": "Scrim-s04rele",
+  "description": "https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0148",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -8,10 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.13.1",
+    "miragejs": "0.1.46",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "4.7.1",
     "react-router-dom": "6.4.3",
-    "miragejs": "0.1.46",
     "vite": "latest"
   },
   "devDependencies": {
